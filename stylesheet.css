@@ -1,0 +1,193 @@
+*{
+	margin:0;
+	padding:0;
+}
+}
+body{
+	font-family: verdana;
+}
+.navbar .navbar-nav .nav-items a{
+	padding:15px;
+}
+ .nav.nav-items a:hover{
+	color:green;!important
+}
+.navbar-brand a{
+	font-size:40px;
+}
+#im{
+	height:500px;
+	width:100%;
+}
+/*#main{
+	height:1450px;
+	width:100%;
+}*/
+#mn{
+	height:480px;
+	width:100%;
+	margin-top:50px;
+}
+#ab{
+	background-color:#E6E6FA;
+	color:black;
+	height:90px;
+	width:100%;
+	margin-top:20px;
+    margin-bottom:50px;
+	text-align:center;
+}
+#rm{
+    height:290px;
+    width:90%;
+}
+.para{
+	margin-top:60px;
+}
+#all{
+	height:580px;
+	width:100%;
+}
+#mains{
+	height:500px;
+	width:100%;
+	margin-top:60px;
+}
+/*#zip{
+	height:500px;
+	width:100%;
+}*/
+.some{
+	background-image:url(cn2.jpg);
+	background-size:cover;
+	opacity:0.80;
+	z-index:-1;
+	color:white;
+}
+.mt{
+	color:white;
+}
+.card{
+	cursor:pointer;
+	transition: all 0.5s;
+	display:flex;
+	user-select:none;
+	font-weight:bolder;
+	color:block;
+}
+.card:hover{
+	transform: scale(1.4);
+}
+.card:active{
+	transform:scale(0.95s)rotateX(1.7deg);
+}	
+
+.gn{
+	color:#008000;
+	text-align:center;
+}
+.button{
+	background-color:#008000;
+	color:white;
+	border:2px solid #008000;
+	width:30%;
+	height:40px;
+	border-radius:25px;
+	align-items:center;
+}
+#cr{
+	width:100%;
+	height:60px;
+}
+#gs{
+	height:640px;
+	width:100%;
+	background-color:#C7A317;
+	color:black;
+	margin-top:105px;
+}
+#gs ul{
+	list-style:none;
+	
+}
+ #gs li{
+	text-decoration:none;
+	font-size:19px;
+}
+ #gs a{
+	 text-decoration:none;
+	 color:black;
+}
+#bs{
+	height:640px;
+	width:100%;
+	background-color:#C7A317;
+	color:black;
+	margin-top:30px;
+}
+ #bs ul{
+	list-style:none;
+	
+}
+ #bs li{
+	text-decoration:none;
+	font-size:19px;
+}
+ #bs a{
+	 text-decoration:none;
+	 color:black;
+}
+.hd{
+	margin-left:29px;
+}
+.social-links{
+  text-align: center;
+  margin: 2px 1px;
+  font-size: 30px;
+  width: 160px;
+  position:absolute;
+  margin-top:10px;
+  display:inline-flex;
+  justify-content:space-between;
+}
+.fa-facebook{
+  color:black;
+ }
+ .fa-youtube{
+ color: black;
+ }
+ .fa-twitter{
+  color:black;
+ }
+ .fa-instagram{
+  color:black;
+ }
+ #cdm{
+	 height:150px;
+	 width:100%;
+ }
+ #sm{
+	 height:50px;
+	 width:100%;
+ }
+ #test{
+	 height:200px;
+	 width:190px;
+	 margin-left:100px;
+	 margin-top:50px;
+	 margin-bottom:10px; 
+ }
+ .card-title{
+	 color:green;
+ }
+ .card-body{
+	 background-color:#FCFBF4;
+	 border-radius:59px;
+ }
+ #cd{
+	 background-color:#000080;
+	 height:500px;
+ }
+
+
+ 
